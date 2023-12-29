@@ -1,0 +1,14 @@
+C:\Users\HARUN\OneDrive\Masaüstü\çalışma\C#\SOLID_Principles\SOLID_Principles\bin\Debug\net7.0\SOLID_Principles.exe
+C:\Users\HARUN\OneDrive\Masaüstü\çalışma\C#\SOLID_Principles\SOLID_Principles\bin\Debug\net7.0\SOLID_Principles.deps.json
+C:\Users\HARUN\OneDrive\Masaüstü\çalışma\C#\SOLID_Principles\SOLID_Principles\bin\Debug\net7.0\SOLID_Principles.runtimeconfig.json
+C:\Users\HARUN\OneDrive\Masaüstü\çalışma\C#\SOLID_Principles\SOLID_Principles\bin\Debug\net7.0\SOLID_Principles.dll
+C:\Users\HARUN\OneDrive\Masaüstü\çalışma\C#\SOLID_Principles\SOLID_Principles\bin\Debug\net7.0\SOLID_Principles.pdb
+C:\Users\HARUN\OneDrive\Masaüstü\çalışma\C#\SOLID_Principles\SOLID_Principles\obj\Debug\net7.0\SOLID_Principles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HARUN\OneDrive\Masaüstü\çalışma\C#\SOLID_Principles\SOLID_Principles\obj\Debug\net7.0\SOLID_Principles.AssemblyInfoInputs.cache
+C:\Users\HARUN\OneDrive\Masaüstü\çalışma\C#\SOLID_Principles\SOLID_Principles\obj\Debug\net7.0\SOLID_Principles.AssemblyInfo.cs
+C:\Users\HARUN\OneDrive\Masaüstü\çalışma\C#\SOLID_Principles\SOLID_Principles\obj\Debug\net7.0\SOLID_Principles.csproj.CoreCompileInputs.cache
+C:\Users\HARUN\OneDrive\Masaüstü\çalışma\C#\SOLID_Principles\SOLID_Principles\obj\Debug\net7.0\SOLID_Principles.dll
+C:\Users\HARUN\OneDrive\Masaüstü\çalışma\C#\SOLID_Principles\SOLID_Principles\obj\Debug\net7.0\refint\SOLID_Principles.dll
+C:\Users\HARUN\OneDrive\Masaüstü\çalışma\C#\SOLID_Principles\SOLID_Principles\obj\Debug\net7.0\SOLID_Principles.pdb
+C:\Users\HARUN\OneDrive\Masaüstü\çalışma\C#\SOLID_Principles\SOLID_Principles\obj\Debug\net7.0\SOLID_Principles.genruntimeconfig.cache
+C:\Users\HARUN\OneDrive\Masaüstü\çalışma\C#\SOLID_Principles\SOLID_Principles\obj\Debug\net7.0\ref\SOLID_Principles.dll
