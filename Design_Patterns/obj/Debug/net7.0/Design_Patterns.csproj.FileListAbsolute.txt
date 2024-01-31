@@ -1,0 +1,14 @@
+C:\Users\HARUN\OneDrive\Masaüstü\Design_Patterns\bin\Debug\net7.0\Design_Patterns.exe
+C:\Users\HARUN\OneDrive\Masaüstü\Design_Patterns\bin\Debug\net7.0\Design_Patterns.deps.json
+C:\Users\HARUN\OneDrive\Masaüstü\Design_Patterns\bin\Debug\net7.0\Design_Patterns.runtimeconfig.json
+C:\Users\HARUN\OneDrive\Masaüstü\Design_Patterns\bin\Debug\net7.0\Design_Patterns.dll
+C:\Users\HARUN\OneDrive\Masaüstü\Design_Patterns\bin\Debug\net7.0\Design_Patterns.pdb
+C:\Users\HARUN\OneDrive\Masaüstü\Design_Patterns\obj\Debug\net7.0\Design_Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HARUN\OneDrive\Masaüstü\Design_Patterns\obj\Debug\net7.0\Design_Patterns.AssemblyInfoInputs.cache
+C:\Users\HARUN\OneDrive\Masaüstü\Design_Patterns\obj\Debug\net7.0\Design_Patterns.AssemblyInfo.cs
+C:\Users\HARUN\OneDrive\Masaüstü\Design_Patterns\obj\Debug\net7.0\Design_Patterns.csproj.CoreCompileInputs.cache
+C:\Users\HARUN\OneDrive\Masaüstü\Design_Patterns\obj\Debug\net7.0\Design_Patterns.dll
+C:\Users\HARUN\OneDrive\Masaüstü\Design_Patterns\obj\Debug\net7.0\refint\Design_Patterns.dll
+C:\Users\HARUN\OneDrive\Masaüstü\Design_Patterns\obj\Debug\net7.0\Design_Patterns.pdb
+C:\Users\HARUN\OneDrive\Masaüstü\Design_Patterns\obj\Debug\net7.0\Design_Patterns.genruntimeconfig.cache
+C:\Users\HARUN\OneDrive\Masaüstü\Design_Patterns\obj\Debug\net7.0\ref\Design_Patterns.dll
