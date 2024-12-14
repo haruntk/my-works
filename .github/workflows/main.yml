@@ -22,4 +22,4 @@ jobs:
 
     # Testlerin çalıştırılması
     - name: Run tests
-      run: pytest test_app.py
+      run: test_app.py
