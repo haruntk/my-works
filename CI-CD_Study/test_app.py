@@ -4,7 +4,7 @@ from app import greet  # app.py'den greet fonksiyonunu içe aktar
 class TestGreetFunction(unittest.TestCase):
     def test_greet_with_name(self):
         # "World" girdiğinde, doğru çıktıyı döndürdüğünü test et
-        self.assertEqual(greet("World"), "Hello, World!")
+        self.assertEqual(greet("World"), "Hello, Harun!")
 
     def test_greet_with_empty_string(self):
         # Boş string girdiğinde, çıktıyı test et
