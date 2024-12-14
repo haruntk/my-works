@@ -1,25 +1,34 @@
-name: Python CI/CD Pipeline
+name: Python CI
 
 on:
   push:
     branches:
-      - main
+      - main  # Ana dalda yapılan her değişiklikte pipeline çalışır
+  pull_request:
+    branches:
+      - main  # Ana dala açılan pull request'lerde pipeline çalışır
 
 jobs:
   build-and-test:
     runs-on: ubuntu-latest
 
     steps:
-    # Kodun depodan çekilmesi
-    - name: Checkout code
-      uses: actions/checkout@v3
+      # Depoyu çek
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-    # Python ortamının kurulması
-    - name: Setup Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: 3.9
+      # Python'u kur
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10  # Python'un kullanılacak versiyonu
 
-    # Testlerin çalıştırılması
-    - name: Run tests
-      run: py test_app.py
+      # Bağımlılıkları yükle
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # Testleri çalıştır
+      - name: Run tests
+        run: python -m unittest discover -s . -p "test_*.py"
